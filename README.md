@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krzysztofbralczyk
 - 👀 I’m interested in ... WebDev and ML (Though ML has to wait, no time for everything)
-- 🌱 I’m currently learning ... C#/ASP.NET Core
+- 🌱 I’m currently learning ... Java/Spring
 - 📫 How to reach me ... By email, Facebook, LinkedIn.
 
 <!---
