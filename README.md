@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krzysztofbralczyk
-- 👀 I’m interested in ... WebDev and ML (Though ML has to wait, no time for everything)
+- 👀 I’m interested in ... WebDev
 - 🌱 I’m currently learning ... Java/Spring
 - 📫 How to reach me ... By email, Facebook, LinkedIn.
 
